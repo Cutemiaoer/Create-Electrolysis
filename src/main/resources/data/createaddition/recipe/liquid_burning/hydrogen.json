@@ -1,0 +1,13 @@
+{
+  "type": "createaddition:liquid_burning",
+  "burn_time": 600,
+  "ingredients": [
+    {
+      "type": "neoforge:tag",
+      "amount": 600,
+      "tag": "c:hydrogen"
+    }
+  ],
+  "results": [],
+  "superheated": true
+}

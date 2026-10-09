@@ -1,0 +1,6 @@
+{
+  "fluid": "createelectrolysis:hydrogen_block",
+  "burnTime": 1,
+  "superHeat": false,
+  "amountConsumedPerTick" : 1
+}

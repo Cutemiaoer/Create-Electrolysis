@@ -1,0 +1,20 @@
+{
+  "type": "createelectrolysis:electrolysis",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 30,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "amount": 10,
+      "id": "createelectrolysis:oxygen"
+    },
+    {
+      "amount": 20,
+      "id": "createelectrolysis:hydrogen"
+    }
+  ],"processing_time": 10
+}

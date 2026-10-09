@@ -1,0 +1,9 @@
+{
+  "block.createelectrolysis.electrolyzer": "电解机",
+  "block.createelectrolysis.electrolyzer.tooltip.summary": "当电解机中有足够的_FE能量_时，电解机会电解下方_工作盆_中的流体。",
+  "create.recipe.electrolysis": "电解",
+  "fluid.createelectrolysis.hydrogen": "氢气",
+  "fluid.createelectrolysis.oxygen": "氧气",
+  "item.createelectrolysis.rods": "电极",
+  "itemGroup.createelectrolysis": "机械动力：电解"
+}

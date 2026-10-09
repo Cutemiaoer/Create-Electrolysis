@@ -1,0 +1,9 @@
+{
+  "block.createelectrolysis.electrolyzer": "Electrolyzer",
+  "block.createelectrolysis.electrolyzer.tooltip.summary": "When there is enough _FE energy_, electrolyse the fluid in the _basin_ below.",
+  "create.recipe.electrolysis": "Electrolysis",
+  "fluid.createelectrolysis.hydrogen": "Hydrogen",
+  "fluid.createelectrolysis.oxygen": "Oxygen",
+  "item.createelectrolysis.rods": "Rods",
+  "itemGroup.createelectrolysis": "Create: Electrolysis"
+}

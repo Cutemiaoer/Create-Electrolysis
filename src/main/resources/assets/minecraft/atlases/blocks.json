@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "createelectrolysis:fluid/hydrogen_flow"
+    },
+    {
+      "type": "single",
+      "resource": "createelectrolysis:fluid/hydrogen_still"
+    },
+    {
+      "type": "single",
+      "resource": "createelectrolysis:fluid/oxygen_flow"
+    },
+    {
+      "type": "single",
+      "resource": "createelectrolysis:fluid/oxygen_still"
+    }
+  ]
+}
